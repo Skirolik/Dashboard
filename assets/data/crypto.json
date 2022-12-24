@@ -1,0 +1,201 @@
+{
+  "id": "pixolar",
+  "symbol": "PXL",
+  "name": "Pixolar-700W",
+  "description": {
+    "en":"Manav Energy's first 3D solar technology: Pixolar. Pixolar panel comes in various sizes wiht differing power capacity of each. 1.8 times that of conventional solar panels"
+  },
+  "image": {
+    "thumb": "https://assets.coingecko.com/coins/images/1/thumb/bitcoin.png?1547033579",
+    "small": "https://assets.coingecko.com/coins/images/1/small/bitcoin.png?1547033579",
+    "large": "https://assets.coingecko.com/coins/images/1/large/bitcoin.png?1547033579"
+  },
+  "market_data": {
+    "current_price": {
+      "usd": 56568
+    },
+    "ath": {
+      "usd": 69045
+    },
+    "ath_change_percentage": {
+      "usd": -18.18598
+    },
+    "ath_date": {
+      "usd": "2021-11-10T14:24:11.849Z"
+    },
+    "atl": {
+      "usd": 67.81
+    },
+    "atl_change_percentage": {
+      "usd": 83205.01856
+    },
+    "atl_date": {
+      "usd": "2013-07-06T00:00:00.000Z"
+    },
+    "market_cap": {
+      "usd": 1067018062661
+    },
+    "market_cap_rank": 1,
+    "fully_diluted_valuation": {
+      "usd": 1186254300722
+    },
+    "total_volume": {
+      "usd": 39107942053
+    },
+    "high_24h": {
+      "usd": 56379
+    },
+    "low_24h": {
+      "usd": 55822
+    },
+    "price_change_24h": -915.587350188,
+    "price_change_percentage_24h": -1.59279,
+    "price_change_percentage_7d": -1.10232,
+    "price_change_percentage_14d": -6.65963,
+    "price_change_percentage_30d": -7.45095,
+    "price_change_percentage_60d": 18.3975,
+    "price_change_percentage_200d": 20.92045,
+    "price_change_percentage_1y": 199.97574,
+    "market_cap_change_percentage_24h": -1.78298,
+    "price_change_24h_in_currency": {
+      "usd": -915.587350187991
+    },
+    "price_change_percentage_1h_in_currency": {
+      "usd": -0.05063
+    },
+    "price_change_percentage_24h_in_currency": {
+      "usd": -1.59279
+    },
+    "price_change_percentage_7d_in_currency": {
+      "usd": -1.10232
+    },
+    "price_change_percentage_14d_in_currency": {
+      "usd": -6.65963
+    },
+    "price_change_percentage_30d_in_currency": {
+      "usd": -7.45095
+    },
+    "price_change_percentage_60d_in_currency": {
+      "usd": 18.3975
+    },
+    "price_change_percentage_200d_in_currency": {
+      "usd": 20.92045
+    },
+    "price_change_percentage_1y_in_currency": {
+      "usd": 199.97574
+    },
+    "total_supply": 21000000,
+    "max_supply": 21000000,
+    "circulating_supply": 18889187
+  },
+    "prices": [
+      [
+        1638399794129,
+        200
+      ],
+      [
+        1638403476369,
+        400
+      ],
+      [
+        1638407244512,
+        600
+      ],
+      [
+        1638410441521,
+        100
+      ],
+      [
+        1638414229015,
+        50
+      ],
+      [
+        1638417714496,
+        12
+      ],
+      [
+        1638421425604,
+        25
+      ],
+      [
+        1638425027112,
+        400
+      ],
+      [
+        1638428418970,
+        28
+      ],
+      [
+        1638432235967,
+        32
+      ],
+      [
+        1638435954706,
+        900
+      ],
+      [
+        1638439343039,
+        55
+      ],
+      [
+        1638442935772,
+        778
+      ],
+      [
+        1638446477740,
+        564
+      ],
+      [
+        1638450024595,
+        565
+      ],
+      [
+        1638453873126,
+        563
+      ],
+      [
+        1638457350240,
+        572
+      ],
+      [
+        1638461347302,
+        565
+      ],
+      [
+        1638464498024,
+        2014
+      ],
+      [
+        1638468329477,
+        169
+      ],
+      [
+        1638472198746,
+        4176
+      ],
+      [
+        1638475482827,
+        264
+      ],
+      [
+        1638478867637,
+        586
+      ],
+      [
+        1638482546642,
+        683
+      ],
+      [
+        1638484132000,
+        151
+      ]
+    ],
+  "tickers": [
+    {
+      "base": "BTC",
+      "target": "USD",
+      "last": 56386,
+      "coin_id": "bitcoin"
+    }
+  ]
+}
